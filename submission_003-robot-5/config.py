@@ -1,0 +1,2 @@
+newlis = []
+doorspace = []
