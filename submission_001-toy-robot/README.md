@@ -1,4 +1,4 @@
-# Problems - Toy Robot
+# Problems-Toy Robot
 #
 * Modify `robot.py` to solve the problem as stated in the topic content.
 * You can run the program using the instructions in *To Run* below.
